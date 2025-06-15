@@ -1,0 +1,13 @@
+# Node.js dependencies
+node_modules/
+
+# Environment
+.env
+
+# Uploads (if you don’t want to store uploaded files in Git)
+uploads/
+
+# Editor files
+.DS_Store
+.vscode/
+*.log
